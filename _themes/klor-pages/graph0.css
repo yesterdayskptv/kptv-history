@@ -1,0 +1,108 @@
+.mstheme
+{
+	separator-image: url(bluhorsd.gif);
+	list-image-1: url(blubul1d.gif);
+	list-image-2: url(blubul2d.gif);
+	list-image-3: url(blubul3d.gif);
+	nav-banner-image: url(blubannd.gif);
+	navbutton-horiz-normal: url(bluhbudd.gif);
+	navbutton-horiz-hovered: url(bluhbudd.gif);
+	navbutton-horiz-pushed: url(bluhbusd.gif);
+	navbutton-vert-normal: url(bluvbudd.gif);
+	navbutton-vert-hovered: url(bluvbudd.gif);
+	navbutton-vert-pushed: url(bluvbusd.gif);
+	navbutton-home-normal: url(bluhombd.gif);
+	navbutton-home-hovered: url(bluhombd.gif);
+	navbutton-home-pushed: url(bluhombd.gif);
+	navbutton-next-normal: url(blunexbd.gif);
+	navbutton-next-hovered: url(blunexbd.gif);
+	navbutton-next-pushed: url(blunexbd.gif);
+	navbutton-prev-normal: url(bluprebd.gif);
+	navbutton-prev-hovered: url(bluprebd.gif);
+	navbutton-prev-pushed: url(bluprebd.gif);
+	navbutton-up-normal: url(bluupbd.gif);
+	navbutton-up-hovered: url(bluupbd.gif);
+	navbutton-up-pushed: url(bluupbd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Century Gothic, Arial, Helvetica;
+	color: rgb(0, 0, 102);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+ul
+{
+	list-style-image: url(blubul1d.gif);
+}
+ul ul
+{
+	list-style-image: url(blubul2d.gif);
+}
+ul ul ul
+{
+	list-style-image: url(blubul3d.gif);
+}
