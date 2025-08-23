@@ -11,7 +11,7 @@ vti_navbuttonnextlabel:SR|Next
 vti_textindexood:IR|1
 vti_publishmetainfokeys:VR|vti_assignedto vti_approvallevel vti_categories vti_description
 vti_htmlextensions:SX|.htm.html.shtml.shtm.stm.htt.htx.asp.alx.asa.
-vti_dependenciesood:IR|0
+vti_dependenciesood:IR|1
 vti_themedefault:SR|kptv-website 011
 vti_approvallevels:VR|Content\\ Review Legal\\ Review Code\\ Review Manager\\ Review
 vti_borderdefault:SR|none
